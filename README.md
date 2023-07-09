@@ -1,1 +1,2 @@
-Se agregarán los datos de registro de un formulario a la bd con MySQL
+-Se verificará si los datos añadidos en el formulario están en la bd, si es correcto, el usuario será dirigido a la pagina principal.
+-Caso contrario se dirá que los datos son incorrectos
